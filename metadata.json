@@ -1,0 +1,5 @@
+{
+  "name": "AI Accompanist",
+  "description": "Intelligent musical layer and AI DJ that analyzes real-time audio to generate harmonic accompaniment and dance floor arrangements.",
+  "requestFramePermissions": ["microphone"]
+}
